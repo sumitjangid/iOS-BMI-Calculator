@@ -1,0 +1,18 @@
+
+Name: Sumit Jangid
+
+Email id: sumit.jangid@csu.fullerton.edu
+
+Description of Program: BMI application is built using “Singleton” design pattern where you can use to calculate your BODY MASS INDEX which determines how healthy you are.
+
+Singleton pattern is useful when exactly one object is needed in order to calculate the BMI and BMR the concept is generalized. This helps the single instance and global access principles. The singleton pattern is implemented by creating a class with a method that creates a new instance of the class.
+
+In this application one can see in which category you belong. i.e. Are you.. Severe Thin , Moderate Thin, Mild Thin, Normal Range, Overweight, Obese Class I(Moderate), Obese Class II(Severe), Obese Class III(Very Severe). 
+
+This application will calculate your BMI and BMR using your body weight , height, age and sex. 
+
+It has two switch feature, first one is based on the sex criteria in which you can choose your gender (i.e. Male or Female) and second switch feature is for Units. You can give your input for weight and height in two units. Switch case will help you to select the English Units (i.e. lbs, inches) or Metric Units (i.e. Kgs, cms). 
+
+Once you enter your Weight (either in Kgs or Pounds) , Height (cms or inches), Age, Sex (Male or Female) and Press “Calculate” button.
+
+It will show your BMI, BMR and BMI Description with a funny image depending upon the BMI index.   
